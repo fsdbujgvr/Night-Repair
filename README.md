@@ -10,9 +10,9 @@
 1. 修复了夜视效果与游戏内亮度设置没有关联的问题。
 2. 修复了夜视效果的亮度被锁定在之前版本亮度最暗值的问题。
 
-## 效果对比
+## 效果对比（表格内亮度设定均为最亮）
 
-| 1.21.9原始效果（亮度设定为最亮） | 1.21.9修复后效果（亮度设定为最亮） | 以前版本亮度为最亮效果 |
+| 1.21.9原始效果 | 1.21.9修复后效果 | 以前版本 |
 |:---:|:---:|:---:|
 | <img src="https://cloudflare-imgbed-1t7.pages.dev/file/1761983084029_1.21.9wumod.png" width="500"> | <img src="https://cloudflare-imgbed-1t7.pages.dev/file/1761983079642_1.21.9youmod.png" width="500"> | <img src="https://cloudflare-imgbed-1t7.pages.dev/file/1761983046260_yiqianbanben.png" width="500"> |
 
@@ -28,8 +28,8 @@ This mod aims to fix these problems by linking the night vision effect to the in
 1.  Fixed the issue where the night vision effect was not linked to the in-game brightness setting.
 2.  Fixed the issue where the brightness of the night vision effect was locked to the darkest value of previous versions.
 
-## Comparison
+## Comparison (Brightness set to max in all images)
 
-| Original 1.21.9 Effect (Brightness set to max) | Fixed 1.21.9 Effect (Brightness set to max) | Effect in Previous Versions (Brightness set to max) |
+| Original 1.21.9 Effect | Fixed 1.21.9 Effect | Previous Versions |
 |:---:|:---:|:---:|
 | <img src="https://cloudflare-imgbed-1t7.pages.dev/file/1761983084029_1.21.9wumod.png" width="500"> | <img src="https://cloudflare-imgbed-1t7.pages.dev/file/1761983079642_1.21.9youmod.png" width="500"> | <img src="https://cloudflare-imgbed-1t7.pages.dev/file/1761983046260_yiqianbanben.png" width="500"> |
