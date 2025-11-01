@@ -1,2 +1,35 @@
-# Night-Repair
-修复 Minecraft 1.21.9及之后版本中夜视效果过暗且与亮度设置脱钩的问题，让夜视效果恢复到以前版本的正常亮度和功能。Restores the proper brightness and functionality to the night vision effect in Minecraft 1.21.9+, fixing the bug that makes it too dark and unresponsive to the brightness setting.
+# 中文版
+
+## 简介
+
+在1.21.9之后的版本中，游戏的夜视效果存在一些问题。夜视效果与游戏内的亮度设置没有关联，并且夜视效果的亮度被锁定在了之前版本亮度最暗的那个值。
+
+本模组的目标是修复这些问题，使夜视效果与游戏内的亮度设置相关联，并且夜视效果的亮度与之前的版本相同。
+
+## 修复内容
+1. 修复了夜视效果与游戏内亮度设置没有关联的问题。
+2. 修复了夜视效果的亮度被锁定在之前版本亮度最暗值的问题。
+
+## 效果对比
+
+| 1.21.9原始效果（亮度设定为最亮） | 1.21.9修复后效果（亮度设定为最亮） | 以前版本亮度为最亮效果 |
+|:---:|:---:|:---:|
+| <img src="https://cloudflare-imgbed-1t7.pages.dev/file/1761983084029_1.21.9wumod.png" width="500"> | <img src="https://cloudflare-imgbed-1t7.pages.dev/file/1761983079642_1.21.9youmod.png" width="500"> | <img src="https://cloudflare-imgbed-1t7.pages.dev/file/1761983046260_yiqianbanben.png" width="500"> |
+
+# English Version
+
+## Introduction
+
+In game versions after 1.21.9, there are some issues with the night vision effect. Specifically, the night vision effect is not linked to the in-game brightness setting, and its brightness is locked to the darkest value found in previous versions.
+
+This mod aims to fix these problems by linking the night vision effect to the in-game brightness setting and ensuring its brightness is consistent with previous versions.
+
+## Fixes
+1.  Fixed the issue where the night vision effect was not linked to the in-game brightness setting.
+2.  Fixed the issue where the brightness of the night vision effect was locked to the darkest value of previous versions.
+
+## Comparison
+
+| Original 1.21.9 Effect (Brightness set to max) | Fixed 1.21.9 Effect (Brightness set to max) | Effect in Previous Versions (Brightness set to max) |
+|:---:|:---:|:---:|
+| <img src="https://cloudflare-imgbed-1t7.pages.dev/file/1761983084029_1.21.9wumod.png" width="500"> | <img src="https://cloudflare-imgbed-1t7.pages.dev/file/1761983079642_1.21.9youmod.png" width="500"> | <img src="https://cloudflare-imgbed-1t7.pages.dev/file/1761983046260_yiqianbanben.png" width="500"> |
