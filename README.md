@@ -16,6 +16,16 @@
 |:---:|:---:|:---:|
 | <img src="https://cloudflare-imgbed-1t7.pages.dev/file/1761983084029_1.21.9wumod.png" width="500"> | <img src="https://cloudflare-imgbed-1t7.pages.dev/file/1761983079642_1.21.9youmod.png" width="500"> | <img src="https://cloudflare-imgbed-1t7.pages.dev/file/1761983046260_yiqianbanben.png" width="500"> |
 
+## 外部相关链接
+
+MC百科：
+
+GitHub：[https://github.com/fsdbujgvr/Night-Repair](https://github.com/fsdbujgvr/Night-Repair)
+
+CurseForge：[https://www.curseforge.com/minecraft/mc-mods/night-repair](https://www.curseforge.com/minecraft/mc-mods/night-repair)
+
+Modrinth：[https://modrinth.com/mod/night-repair](https://modrinth.com/mod/night-repair)
+
 # English Version
 
 ## Introduction
@@ -33,3 +43,13 @@ This mod aims to fix these problems by linking the night vision effect to the in
 | Original 1.21.9 Effect | Fixed 1.21.9 Effect | Previous Versions |
 |:---:|:---:|:---:|
 | <img src="https://cloudflare-imgbed-1t7.pages.dev/file/1761983084029_1.21.9wumod.png" width="500"> | <img src="https://cloudflare-imgbed-1t7.pages.dev/file/1761983079642_1.21.9youmod.png" width="500"> | <img src="https://cloudflare-imgbed-1t7.pages.dev/file/1761983046260_yiqianbanben.png" width="500"> |
+
+## External Links
+
+MC百科：
+
+GitHub：[https://github.com/fsdbujgvr/Night-Repair](https://github.com/fsdbujgvr/Night-Repair)
+
+CurseForge：[https://www.curseforge.com/minecraft/mc-mods/night-repair](https://www.curseforge.com/minecraft/mc-mods/night-repair)
+
+Modrinth：[https://modrinth.com/mod/night-repair](https://modrinth.com/mod/night-repair)
