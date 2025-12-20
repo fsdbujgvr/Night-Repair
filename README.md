@@ -18,7 +18,7 @@
 
 ## 外部相关链接
 
-MC百科：
+MC百科：[https://www.mcmod.cn/class/22876.html](https://www.mcmod.cn/class/22876.html)
 
 GitHub：[https://github.com/fsdbujgvr/Night-Repair](https://github.com/fsdbujgvr/Night-Repair)
 
@@ -46,7 +46,7 @@ This mod aims to fix these problems by linking the night vision effect to the in
 
 ## External Links
 
-MC百科：
+MC百科：[https://www.mcmod.cn/class/22876.html](https://www.mcmod.cn/class/22876.html)
 
 GitHub：[https://github.com/fsdbujgvr/Night-Repair](https://github.com/fsdbujgvr/Night-Repair)
 

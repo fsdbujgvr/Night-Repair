@@ -21,8 +21,11 @@ public abstract class LightTextureMixin {
         float base = net.minecraft.client.renderer.GameRenderer.getNightVisionScale(entity, partialTicks);
         double gammaRaw = Minecraft.getInstance().options.gamma().get();
         double gamma = Math.max(0.0, Math.min(gammaRaw, 1.0));
-        // 新公式: gamma=0时factor=1.0(100%), gamma=1时factor=3.0(300%)
-        float factor = (float)(1.0 + gamma * 2.0); // 范围 [1.0, 3.0]
+        // 新公式(先慢后快): 使用平方曲线
+        // gamma=0.0 -> factor=1.0
+        // gamma=0.5 -> factor=1.5 (原线性为2.0)
+        // gamma=1.0 -> factor=3.0
+        float factor = (float)(1.0 + Math.pow(gamma, 1.8) * 2.0);
         float adjusted = base * factor;
         return Math.max(0.0f, adjusted); // 移除上限限制，允许超过1.0
     }
